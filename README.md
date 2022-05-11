@@ -20,4 +20,4 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/AhmetYahyaBilgin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmet-yahya-bilgin/)
-<img src="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem?raw=true"  width="300"/>
+<img src="https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem"  width="300"/>
