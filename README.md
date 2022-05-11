@@ -19,5 +19,6 @@
 </p><p align="center">
 
 
-[![Linkedin Badge](https://img.shields.io/badge/AhmetYahyaBilgin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmet-yahya-bilgin/)
-<img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif"  width="300"/>
+[![Linkedin Badge](https://img.shields.io/badge/AhmetYahyaBilgin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmet-yahya-bilgin/)<br>
+  
+<img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif"  width="300"/><br>
